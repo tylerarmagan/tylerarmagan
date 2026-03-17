@@ -26,11 +26,11 @@ Hello! My name is Tyler Armagan, and I’m a sophomore currently pursing a Bache
 
 ## Skills
 
-**Languages:** PHP, SQL, Python (basic), PowerShell (basic)
-**Systems & Identity:** Windows, Linux, Active Directory, Windows Server, IAM, MFA
-**Security & Networking:** Endpoint Security, Phishing Triage, Malware Awareness, Wireshark, Basic Network Security
-**Tools:** TeamDynamix, Microsoft 365, VirtualBox, Okta
-**Concepts:** Access Controls, Incident Response, Risk Management, Security Operations, Business Continuity, CIA Triad
+- **Languages:** PHP, SQL, Python (basic), PowerShell (basic)
+- **Systems & Identity:** Windows, Linux, Active Directory, Windows Server, IAM, MFA
+- **Security & Networking:** Endpoint Security, Phishing Triage, Malware Awareness, Wireshark, Basic Network Security
+- **Tools:** TeamDynamix, Microsoft 365, VirtualBox, Okta
+- **Concepts:** Access Controls, Incident Response, Risk Management, Security Operations, Business Continuity, CIA Triad
 
 ---
 
