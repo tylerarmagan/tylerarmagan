@@ -37,7 +37,7 @@ Hello! My name is Tyler Armagan, and I’m a sophomore currently pursing a Bache
 ## Get in Touch
 
 - 📧[Email] [armagant@mail.sacredheart.edu](mailto:armagant@mail.sacredheart.edu)
-- 🌐[LinkedIn](https://www.linkedin.com/in/tyler-armagan-)
+- 🌐[LinkedIn](https://www.linkedin.com/in/tyler-armagan-8859b6336)
 
 *Thank you for visiting my profile! Feel free to explore my repositories and take a look at my homelab projects! I am always open to connect.*
 
