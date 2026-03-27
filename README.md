@@ -32,11 +32,11 @@ Hello! My name is Tyler Armagan, and I’m a sophomore currently pursing a Bache
 
 ## Skills
 
-**Languages:** Python (basic), PowerShell (basic), PHP, SQL, SSH
-**Systems:** Windows, Kali Linux, Active Directory, Windows Server
-**Tools:** Wireshark, Okta, DigitalOcean, VirtualBox, TeamDynamix, Microsoft 365
-**Security:** IAM/MFA, Endpoint Security, Phishing & Malware Triage, Network Security; Access Controls, Security Operations
-**Soft Skills:** Communication (Written, Verbal), Teamwork, Problem-solving, Attention to Detail
+- **Languages:** Python (basic), PowerShell (basic), PHP, SQL, SSH
+- **Systems:** Windows, Kali Linux, Active Directory, Windows Server
+- **Tools:** Wireshark, Okta, DigitalOcean, VirtualBox, TeamDynamix, Microsoft 365
+- **Security:** IAM/MFA, Endpoint Security, Phishing & Malware Triage, Network Security; Access Controls, Security Operations
+- **Soft Skills:** Communication (Written, Verbal), Teamwork, Problem-solving, Attention to Detail
 
 ---
 
