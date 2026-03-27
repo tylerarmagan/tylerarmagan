@@ -20,7 +20,7 @@ Hello! My name is Tyler Armagan, and I’m a sophomore currently pursing a Bache
 **Sacred Heart University, Jack Welch College of Business & Technology**
 - 🎓 B.S. in Cybersecurity (Honors Program)
 - 🏫 Expected Graduation: May 2028
-- 📜 GPA: 3.7/3.8
+- 📜 GPA: 3.7
 
 ---
 
@@ -32,11 +32,11 @@ Hello! My name is Tyler Armagan, and I’m a sophomore currently pursing a Bache
 
 ## Skills
 
-- **Languages:** PHP, SQL, Python (basic), PowerShell (basic)
-- **Systems & Identity:** Windows, Linux, Active Directory, Windows Server, IAM, MFA
-- **Security & Networking:** Endpoint Security, Phishing Triage, Malware Awareness, Wireshark, Basic Network Security
-- **Tools:** TeamDynamix, Microsoft 365, VirtualBox, Okta
-- **Concepts:** Access Controls, Incident Response, Risk Management, Security Operations, Business Continuity, CIA Triad
+**Languages:** Python (basic), PowerShell (basic), PHP, SQL, SSH
+**Systems:** Windows, Kali Linux, Active Directory, Windows Server
+**Tools:** Wireshark, Okta, DigitalOcean, VirtualBox, TeamDynamix, Microsoft 365
+**Security:** IAM/MFA, Endpoint Security, Phishing & Malware Triage, Network Security; Access Controls, Security Operations
+**Soft Skills:** Communication (Written, Verbal), Teamwork, Problem-solving, Attention to Detail
 
 ---
 
