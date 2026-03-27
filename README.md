@@ -27,6 +27,7 @@ Hello! My name is Tyler Armagan, and I’m a sophomore currently pursing a Bache
 ## Projects
 
 - [TPot Honeypot Cybersecurity Lab](https://github.com/tylerarmagan/t-pot-honeypot-deployment-)
+- [Hockey Tournament Registration System](https://github.com/tylerarmagan/hockey-tournament-registration-system)
 
 ---
 
