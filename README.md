@@ -16,7 +16,6 @@ I'm especially interested in **Security Engineering, Security Operations, and Cl
 - 🌐 **Network Technician** at Sacred Heart University
 - 🏆 **Vice President** of the Sacred Heart University Cybersecurity Club
 - 📜 **ISC2 Certified in Cybersecurity (CC)**
-- 📚 Currently studying **Network Security, Cryptography, and advanced cybersecurity concepts**
 - 🔬 Building hands-on cybersecurity labs focused on networking, phishing, Linux, authentication, and defensive security
 - 🤝 Interested in **Security Engineering, Security Operations, Cloud Security, and Information Security** opportunities
 - 🥅 Outside of cybersecurity, I play **ice hockey goaltender** for Sacred Heart's club team!
