@@ -19,7 +19,7 @@ I'm especially interested in **Security Engineering, Security Operations, and Cl
 - 📚 Currently studying **Network Security, Cryptography, and advanced cybersecurity concepts**
 - 🔬 Building hands-on cybersecurity labs focused on networking, phishing, Linux, authentication, and defensive security
 - 🤝 Interested in **Security Engineering, Security Operations, Cloud Security, and Information Security** opportunities
-- 🥅 Outside of cybersecurity, I play **ice hockey goaltender** for Sacred Heart's club team
+- 🥅 Outside of cybersecurity, I play **ice hockey goaltender** for Sacred Heart's club team!
 
 ---
 
