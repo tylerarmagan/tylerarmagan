@@ -11,7 +11,7 @@ I'm especially interested in **Security Engineering, Security Operations, and Cl
 ## 👨‍💻 About Me
 
 - 🎓 **B.S. Cybersecurity (Honors)** at Sacred Heart University — Expected May 2028
-- 🛡️ **Network Operations Intern — Security Operations** at Willkie Farr & Gallagher LLP
+- 🛡️ **Network Operations Intern | Security Operations** at Willkie Farr & Gallagher LLP
 - 💻 **IT Technician** at Sacred Heart University
 - 🌐 **Network Technician** at Sacred Heart University
 - 🏆 **Vice President** of the Sacred Heart University Cybersecurity Club
@@ -25,20 +25,20 @@ I'm especially interested in **Security Engineering, Security Operations, and Cl
 
 ## 🛡️ Cybersecurity Experience
 
-### Willkie Farr & Gallagher LLP — Network Operations Intern
+### Willkie Farr & Gallagher LLP - Network Operations Intern | Security Operations
 
 Working in an enterprise environment with exposure to:
 
-- **IBM QRadar** — Security alert triage and investigation
-- **IBM X-Force** — Threat intelligence and suspicious IP research
-- **CrowdStrike Falcon** — Endpoint security investigations
-- **Duo Security** — Authentication and location-mismatch investigations
-- **Proofpoint On-Prem & Cloud** — Email security analysis
-- **Active Directory** — User and system administration
-- **Virtualization** — Remote workstation maintenance and patching
-- **Azure & PowerShell** — Exposure to synchronization and onboarding workflows
+- **IBM QRadar** - Security alert triage and investigation
+- **IBM X-Force** - Threat intelligence and suspicious IP research
+- **CrowdStrike Falcon** - Endpoint security investigations
+- **Duo Security** - Authentication and location-mismatch investigations
+- **Proofpoint On-Prem & Cloud** - Email security analysis
+- **Active Directory** - User and system administration
+- **Virtualization** - Remote workstation maintenance and patching
+- **Azure & PowerShell** - Exposure to synchronization and onboarding workflows
 
-### Sacred Heart University — IT & Network Operations
+### Sacred Heart University - IT & Network Operations
 
 - Support users across a **10,000+ user university environment**
 - Troubleshoot hardware, software, connectivity, authentication, and classroom technology
@@ -98,9 +98,9 @@ Developed a database-backed web application for managing hockey tournament users
 
 ## 🎓 Education
 
-**Sacred Heart University — Jack Welch College of Business & Technology**
+**Sacred Heart University - Jack Welch College of Business & Technology**
 
-**B.S. in Cybersecurity — Honors Program**  
+**B.S. in Cybersecurity - Honors Program**  
 Expected Graduation: **May 2028**  
 GPA: **3.8**
 
@@ -112,7 +112,7 @@ Network Security • Cryptography • Networking & Data Communication • Data S
 ## 📜 Certifications
 
 - 🛡️ **ISC2 Certified in Cybersecurity (CC)**
-- 🔒 **CompTIA Security+ — In Progress**
+- 🔒 **CompTIA Security+ - In Progress**
 
 ---
 
